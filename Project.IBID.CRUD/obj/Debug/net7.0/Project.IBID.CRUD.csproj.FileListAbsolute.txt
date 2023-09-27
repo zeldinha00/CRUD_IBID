@@ -1,0 +1,14 @@
+d:\Curso T.I\Projetos\CRUD_IBID\Project.IBID.CRUD\bin\Debug\net7.0\Project.IBID.CRUD.exe
+d:\Curso T.I\Projetos\CRUD_IBID\Project.IBID.CRUD\bin\Debug\net7.0\Project.IBID.CRUD.deps.json
+d:\Curso T.I\Projetos\CRUD_IBID\Project.IBID.CRUD\bin\Debug\net7.0\Project.IBID.CRUD.runtimeconfig.json
+d:\Curso T.I\Projetos\CRUD_IBID\Project.IBID.CRUD\bin\Debug\net7.0\Project.IBID.CRUD.dll
+d:\Curso T.I\Projetos\CRUD_IBID\Project.IBID.CRUD\bin\Debug\net7.0\Project.IBID.CRUD.pdb
+d:\Curso T.I\Projetos\CRUD_IBID\Project.IBID.CRUD\obj\Debug\net7.0\Project.IBID.CRUD.GeneratedMSBuildEditorConfig.editorconfig
+d:\Curso T.I\Projetos\CRUD_IBID\Project.IBID.CRUD\obj\Debug\net7.0\Project.IBID.CRUD.AssemblyInfoInputs.cache
+d:\Curso T.I\Projetos\CRUD_IBID\Project.IBID.CRUD\obj\Debug\net7.0\Project.IBID.CRUD.AssemblyInfo.cs
+d:\Curso T.I\Projetos\CRUD_IBID\Project.IBID.CRUD\obj\Debug\net7.0\Project.IBID.CRUD.csproj.CoreCompileInputs.cache
+d:\Curso T.I\Projetos\CRUD_IBID\Project.IBID.CRUD\obj\Debug\net7.0\Project.IBID.CRUD.dll
+d:\Curso T.I\Projetos\CRUD_IBID\Project.IBID.CRUD\obj\Debug\net7.0\refint\Project.IBID.CRUD.dll
+d:\Curso T.I\Projetos\CRUD_IBID\Project.IBID.CRUD\obj\Debug\net7.0\Project.IBID.CRUD.pdb
+d:\Curso T.I\Projetos\CRUD_IBID\Project.IBID.CRUD\obj\Debug\net7.0\Project.IBID.CRUD.genruntimeconfig.cache
+d:\Curso T.I\Projetos\CRUD_IBID\Project.IBID.CRUD\obj\Debug\net7.0\ref\Project.IBID.CRUD.dll
